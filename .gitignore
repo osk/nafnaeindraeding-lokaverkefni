@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+.coverage
+data/
+.pytest_cache
+node_modules
+dist

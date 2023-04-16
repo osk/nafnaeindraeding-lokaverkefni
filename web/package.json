@@ -1,0 +1,26 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphology": "^0.25.1",
+    "graphology-components": "^1.5.4",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-force": "^0.2.4",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "sigma": "^3.0.0-alpha3",
+    "vite": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
